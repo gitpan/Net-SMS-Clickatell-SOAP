@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               Net-SMS-Clickatell-SOAP
-version:            v0.01
-abstract:           Clickatell SMS service via SOAP
+version:            0.01.001
+abstract:           SOAP interface to the Clickatell SMS service
 author:
     - Peter Farr <Peter.Farr@LPI-Solutions.com>
 license:            unknown
